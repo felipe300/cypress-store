@@ -1,0 +1,7 @@
+{
+  "link": ".login",
+  "email": "#email",
+  "password": "#passwd",
+  "submitBtn": "#SubmitLogin > span",
+  "errMsg": "ol > li"
+}

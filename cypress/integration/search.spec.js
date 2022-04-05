@@ -2,7 +2,7 @@ describe('Search Elements', () => {
   beforeEach(() => {
     cy.visit('/')
   })
-  
+
   it('T1 - Search for elements with multiple results', () => {
     cy.search('dress')
 
