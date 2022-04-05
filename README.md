@@ -1,3 +1,3 @@
 ### Cypress E2E tutorial
 
-basic cypress-store-app for qa and automations testing
+basic cypress-store for QA and automation testing

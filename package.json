@@ -1,7 +1,7 @@
 {
   "name": "cypress-store",
   "version": "1.0.0",
-  "description": "basic cypress-store for qa and automations testing",
+  "description": "basic cypress-store for QA and automation testing",
   "keywords": [
     "cypress",
     "qa",
